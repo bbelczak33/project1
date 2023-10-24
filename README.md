@@ -11,3 +11,5 @@ https://www.opendatanetwork.com/entity/1600000US1714000-1600000US3651000/Chicago
 https://cookcounty.data.socrata.com/dataset/Health-Insurance-by-Gender-and-Age-for-Cook-County/mr2t-9z6e
 
 https://datacatalog.cookcountyil.gov/browse
+
+https://www.census.gov/data/developers/data-sets/Health-Insurance-Statistics.html
