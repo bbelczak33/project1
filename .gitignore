@@ -1,3 +1,5 @@
+Crimes_-_2021.csv
+api_keys.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +7,10 @@ __pycache__/
 
 # C extensions
 *.so
+
+#Not needed files
+Crimes_-_2022.csv
+Public_Health_Services-_Chicago_Primary_Care_Community_Health_Centers.csv
 
 # Distribution / packaging
 .Python
