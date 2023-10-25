@@ -1,6 +1,19 @@
 
-# Contributer
+## Project Partners
 Ben, Maryam, Matthew, Molly, Joseph
+
+# Purpose of Code and project
+
+Our code will analyze data exsisting data sets from 
+
+## Contributors
+
+Will Wright - Instructor
+
+Erin - TA
+
+Geronimo Perez - tutor
+
 
 ## Resources
 
