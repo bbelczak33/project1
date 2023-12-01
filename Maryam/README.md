@@ -1,6 +1,6 @@
 
 # Contributer
-Ben, Maryam, Matthew, Molly, Joseph
+As part of this project, my role was to analyze the relationship between median household income in Chicago and homicide or narcotics related crime.
 
 ## Resources
 
